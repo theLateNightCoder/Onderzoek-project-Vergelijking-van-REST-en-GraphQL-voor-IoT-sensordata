@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|c:\\users\\kathi\\desktop\\project\\graphql\\graphql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|c:\\users\\kathi\\desktop\\project\\graphql\\graphql\\graphql\\mutations\\temperaturemutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\graphql\\mutations\\temperaturemutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|c:\\users\\kathi\\desktop\\project\\graphql\\graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|c:\\users\\kathi\\desktop\\project\\graphql\\graphql\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|c:\\users\\kathi\\desktop\\project\\graphql\\graphql\\graphql\\types\\createtemperaturereadinginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\graphql\\types\\createtemperaturereadinginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|c:\\users\\kathi\\desktop\\project\\graphql\\graphql\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716D8DC-D603-4A6E-82CD-CC188EF04DC7}|GraphQL\\GraphQL.csproj|solutionrelative:graphql\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "GraphQL\\GraphQL\\Query.cs",
+              "ToolTip": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\GraphQL\\Query.cs",
+              "RelativeToolTip": "GraphQL\\GraphQL\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:28:08.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\appsettings.json",
+              "RelativeDocumentMoniker": "GraphQL\\appsettings.json",
+              "ToolTip": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\appsettings.json",
+              "RelativeToolTip": "GraphQL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T02:24:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Program.cs",
+              "ToolTip": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\Program.cs",
+              "RelativeToolTip": "GraphQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:24:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperatureMutations.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\GraphQL\\Mutations\\TemperatureMutations.cs",
+              "RelativeDocumentMoniker": "GraphQL\\GraphQL\\Mutations\\TemperatureMutations.cs",
+              "ToolTip": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\GraphQL\\Mutations\\TemperatureMutations.cs",
+              "RelativeToolTip": "GraphQL\\GraphQL\\Mutations\\TemperatureMutations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:20:20.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTemperatureReadingInput.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\GraphQL\\Types\\CreateTemperatureReadingInput.cs",
+              "RelativeDocumentMoniker": "GraphQL\\GraphQL\\Types\\CreateTemperatureReadingInput.cs",
+              "ToolTip": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\GraphQL\\Types\\CreateTemperatureReadingInput.cs",
+              "RelativeToolTip": "GraphQL\\GraphQL\\Types\\CreateTemperatureReadingInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:19:10.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GraphQL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kathi\\Desktop\\Project\\GraphQL\\GraphQL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GraphQL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T02:17:59.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

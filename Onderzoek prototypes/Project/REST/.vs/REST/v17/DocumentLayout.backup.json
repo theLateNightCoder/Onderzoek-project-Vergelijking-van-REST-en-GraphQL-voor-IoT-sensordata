@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Onderzoek\\REST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|a:\\onderzoek\\rest\\rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|solutionrelative:rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|a:\\onderzoek\\rest\\rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|solutionrelative:rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|a:\\onderzoek\\rest\\rest\\controllers\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|solutionrelative:rest\\controllers\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|a:\\onderzoek\\rest\\rest\\dtos\\createtemperaturereadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|solutionrelative:rest\\dtos\\createtemperaturereadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|a:\\onderzoek\\rest\\rest\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|solutionrelative:rest\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|a:\\onderzoek\\rest\\rest\\model\\temperaturereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40ECB424-574B-4B16-8AAE-9C76B3C0C658}|REST\\REST.csproj|solutionrelative:rest\\model\\temperaturereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\Onderzoek\\REST\\REST\\appsettings.json",
+              "RelativeDocumentMoniker": "REST\\appsettings.json",
+              "ToolTip": "A:\\Onderzoek\\REST\\REST\\appsettings.json",
+              "RelativeToolTip": "REST\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T01:53:46.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Onderzoek\\REST\\REST\\Program.cs",
+              "RelativeDocumentMoniker": "REST\\Program.cs",
+              "ToolTip": "A:\\Onderzoek\\REST\\REST\\Program.cs",
+              "RelativeToolTip": "REST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T01:50:55.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemperatureController.cs",
+              "DocumentMoniker": "A:\\Onderzoek\\REST\\REST\\Controllers\\TemperatureController.cs",
+              "RelativeDocumentMoniker": "REST\\Controllers\\TemperatureController.cs",
+              "ToolTip": "A:\\Onderzoek\\REST\\REST\\Controllers\\TemperatureController.cs",
+              "RelativeToolTip": "REST\\Controllers\\TemperatureController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T01:50:02.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateTemperatureReadingDto.cs",
+              "DocumentMoniker": "A:\\Onderzoek\\REST\\REST\\Dtos\\CreateTemperatureReadingDto.cs",
+              "RelativeDocumentMoniker": "REST\\Dtos\\CreateTemperatureReadingDto.cs",
+              "ToolTip": "A:\\Onderzoek\\REST\\REST\\Dtos\\CreateTemperatureReadingDto.cs",
+              "RelativeToolTip": "REST\\Dtos\\CreateTemperatureReadingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T01:49:05.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "A:\\Onderzoek\\REST\\REST\\Data\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "REST\\Data\\AppDbContext .cs",
+              "ToolTip": "A:\\Onderzoek\\REST\\REST\\Data\\AppDbContext .cs",
+              "RelativeToolTip": "REST\\Data\\AppDbContext .cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T01:47:32.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TemperatureReading.cs",
+              "DocumentMoniker": "A:\\Onderzoek\\REST\\REST\\Model\\TemperatureReading.cs",
+              "RelativeDocumentMoniker": "REST\\Model\\TemperatureReading.cs",
+              "ToolTip": "A:\\Onderzoek\\REST\\REST\\Model\\TemperatureReading.cs",
+              "RelativeToolTip": "REST\\Model\\TemperatureReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T01:46:51.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
