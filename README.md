@@ -8,4 +8,6 @@ Het doel van dit onderzoek is om te vergelijken hoe REST en GraphQL
 presteren in een IoT backend. Hiervoor zijn twee prototypes gebouwd die
 dezelfde sensordata verwerken, elk met een andere API architectuur. Met be
 hulp van tools zoals Grafana k6 en Docker zijn metingen uitgevoerd op het
-gebied van netwerkgebruik en serverbelasting
+gebied van netwerkgebruik en serverbelasting.
+
+![Demo Video](Poster.png)
